@@ -1,0 +1,47 @@
+# System files
+.DS_Store
+
+# VS Code
+.vscode
+
+# .env
+*.env
+
+# Conda Virtual Environment
+.conda_config
+
+# Misc
+.Rhistory
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.bcf
+*.run.xml
+*.bbl
+*.blg
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+*.bbl-SAVE-ERROR
+*.bcf-SAVE-ERROR
+
+**/chunks/
+
+# Archives
+*.tar.gz
